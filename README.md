@@ -7,3 +7,6 @@ This is a web application built with React that allows users to calculate the fu
 - Input fields for initial investment, annual investment, duration, and expected return.
 - Dynamic calculation of the future value of investments.
 - Display of a detailed table showing the growth of the investment year by year.
+
+## Try it here!
+https://moybei.github.io/react-investment-calculator/
